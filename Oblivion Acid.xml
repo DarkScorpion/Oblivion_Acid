@@ -77,10 +77,10 @@
   <Style name="string.single" color="#EDD400" />
   <Style name="string.double" color="#EDD400" />
   <Style name="string.other" color="#EDD400" />
-  <Style name="keyword.access" color="#AD7FA7" weight="Bold" />
-  <Style name="keyword.operator" color="#DA38C5" weight="Bold" />
+  <Style name="keyword.access" color="#902BC0" weight="Bold" />
+  <Style name="keyword.operator" color="#00C53D" weight="Bold" />
   <Style name="keyword.selection" color="#E85B1F" weight="Bold" />
-  <Style name="keyword.iteration" color="#AD7FA8" weight="Bold" />
+  <Style name="keyword.iteration" color="#C407AC" weight="Bold" />
   <Style name="keyword.jump" color="#70A2FF" weight="Bold" />
   <Style name="keyword.context" color="#07EA84" weight="Bold" />
   <Style name="keyword.exceptions" color="#C20000" weight="Bold" />
